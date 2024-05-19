@@ -11,14 +11,14 @@ h1 {
 
 .container {
     display: flex;
-    height: 100vh; /* Altura total da visualização */
-    justify-content:space-around; /* Alinhamento horizontal */
-    align-items:self-start; /* Alinhamento vertical */
+    height: 100vh; 
+    justify-content:space-around; 
+    align-items:self-start; 
     flex-wrap: wrap;
     width: 80%;
     background-color: #104e66;
     color: white;
-    
+    /*max-width: 600px;*/ 
 }
 
 .box {
@@ -30,4 +30,9 @@ h1 {
     font-size: 16px;
     text-align: center;
     width: 200px;
+}
+
+
+.card {
+    cursor: pointer; 
 }
