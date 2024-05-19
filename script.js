@@ -1,8 +1,8 @@
 // Definindo as cartas
 const cards = [
-  { name: "Carta 1", attribute1: 10, attribute2: 9, attribute3: 8, attribute4: 7 },
+  { name: "Carta 1", attribute1: 10, attribute2: 7, attribute3: 6, attribute4: 5 },
   { name: "Carta 2", attribute1: 7, attribute2: 8, attribute3: 9, attribute4: 10 },
-  { name: "Carta 3", attribute1: 8, attribute2: 7, attribute3: 6, attribute4: 9 }
+  { name: "Carta 3", attribute1: 8, attribute2: 6, attribute3: 10, attribute4: 9 }
 ];
 
 // Exibir as cartas
